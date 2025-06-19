@@ -1,8 +1,0 @@
-Flask
-Flask-SQLAlchemy
-mysql-connector-python
-requests
-beautifulsoup4
-lxml
-PyMySQL
-cryptography
